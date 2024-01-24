@@ -14,6 +14,7 @@ public class DataProcessingTask implements Runnable{
 
       try{
         Thread.sleep(5000); // Sleep for 5 seconds
+        System.out.println("flag1");
       }catch (InterruptedException e){
         System.out.println("Data processing interrupted.");
         break;
