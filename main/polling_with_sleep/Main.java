@@ -1,5 +1,5 @@
 package polling_with_sleep;
-
+/*
 public class Main {
 
   public static void main(String[] args) throws InterruptedException{
@@ -34,3 +34,4 @@ public class Main {
 
   }
 }
+*/
